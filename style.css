@@ -6,7 +6,10 @@
 header{
     width: 100%;
     height: 100vh;
-    background-image: url("codsoft/Screenshot 2024-07-27 130353.png")
+    }
+body{
+    background-image: url(background.png);
+    background-size: cover;
 }
 nav{
 width: 100%;
